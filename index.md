@@ -1,5 +1,5 @@
 # Headings :
- Headings using '#'.
+ Headings using '\#'.
 
 # heading1
 ## heading2
@@ -16,7 +16,7 @@ heading1|heading2|heading3
 a|b|c
 
 # List :
-Unoreded list using '*'.
+Unoreded list using '\*'.
 
 * l1
 * l2
@@ -28,7 +28,7 @@ Unoreded list using '*'.
 <br>
 
 # Link :
-Link using '[]()'.
+Link using '\[]()'.
 
 go to [github](https://github.com/barnaligorai) main page.
 
@@ -39,4 +39,3 @@ go to [submarine](https://barnaligorai.github.io/submarine/) page.
 
 #### image of money plant
 ![money plant](./money_plant.png)
-
